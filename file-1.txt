@@ -2,6 +2,10 @@ First line
 
 Second Line
 
+<<<<<<< HEAD
 Third Line
 
 Fourth Line
+=======
+Change from first_new_branch
+>>>>>>> first_new_branch
