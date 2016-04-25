@@ -8,3 +8,6 @@ Fourth Line
 
 Change from first_new_branch
 
+Change from first_new_branch
+
+Second change from first_new_branch
