@@ -3,3 +3,5 @@ First line
 Second Line
 
 Change from first_new_branch
+
+Second change from first_new_branch
